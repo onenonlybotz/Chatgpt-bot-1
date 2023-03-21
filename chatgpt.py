@@ -1,7 +1,3 @@
-
-#-----------CREDITS -----------
-# telegram : @itz_legend_coder
-# github : noob-mukesh
 from pyrogram import Client, filters,enums,idle
 from pyrogram.errors import ApiIdInvalid, ApiIdPublishedFlood, AccessTokenInvalid
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, Message
