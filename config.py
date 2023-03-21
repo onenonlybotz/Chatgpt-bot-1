@@ -11,5 +11,5 @@ STKR = os.environ.get("STKR","CAACAgUAAx0Cbc0hiAACCCdkGV8SLh6npK6iqSIjFAAB-YeJG-
 BANNED_USERS=os.environ.get("BANNED_USERS",None)
 UPDATE_CHNL = os.environ.get("UPDATE_CHNL","TH3ONLYCHANNEL")
 # OWNER_USERNAME = os.environ.get("OWNER_USERNAME","SexyAaditya")
-SUDO=os.environ.get("SUDO","5171357677")
+SUDO=os.environ.get("SUDO","5307865914")
 SUPPORT_GRP = os.environ.get("SUPPORT_GRP","TH3ONLYCHANNEL")
