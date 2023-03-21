@@ -11,7 +11,7 @@
     "buildpacks": [{
     "url": "heroku/python"
   }],
-  "repository": "https://github.com/noob-mukesh/Chatgpt-bot",
+  "repository": "https://github.com/onenonlybotz/Chatgpt-bot",
     "env": {
         "BOT_TOKEN": {
             "description": "telegram bot token here",
