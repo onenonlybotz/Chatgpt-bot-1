@@ -35,6 +35,11 @@ START = f"""
 ๏ ᴛᴏ ɢᴇᴛ ʜᴇʟᴘ ᴜsᴇ /help
 """
 
+SOURCE = 
+UPDATE_CHNL = 
+DEVELOPER = 
+SOURCE_TEXT = f"""
+
 ๏ ʜᴇʏ, ɪ ᴀᴍ [{BOT_NAME}]
 ➻ ᴀɴ ᴏᴘᴇɴ-ᴀɪ-ʙᴀsᴇᴅ ᴄʜᴀᴛɢᴘᴛ.
 ──────────────────
