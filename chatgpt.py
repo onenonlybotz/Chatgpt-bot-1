@@ -34,9 +34,9 @@ START = f"""
 
 ๏ ᴛᴏ ɢᴇᴛ ʜᴇʟᴘ ᴜsᴇ /help
 """
-SOURCE = 
-UPDATE_CHNL = 
-DEVELOPER = 
+SOURCE = url=f"https://t.me/saikostar_xd"
+UPDATE_CHNL = url=f"https://t.me/TH3ONLYCHANNEL"
+DEVELOPER = url=f"https://t.me/sexyaaditya"
 SOURCE_TEXT = f"""
 ๏ ʜᴇʏ, ɪ ᴀᴍ [{BOT_NAME}]
 ➻ ᴀɴ ᴏᴘᴇɴ-ᴀɪ-ʙᴀsᴇᴅ ᴄʜᴀᴛɢᴘᴛ.
